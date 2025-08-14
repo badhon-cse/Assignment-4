@@ -12,5 +12,3 @@ function onlyCharacter(str) {
 
   return "Invalid";
 }
-
-console.log(onlyCharacter(true));
